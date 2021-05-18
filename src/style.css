@@ -1,0 +1,17 @@
+button {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 50px;
+    font-size: 14px;
+}
+
+.start {
+    background-color: mediumseagreen;
+}
+
+.stop {
+    background-color: red;
+}
+
